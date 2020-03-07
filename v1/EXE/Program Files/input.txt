@@ -1,0 +1,25 @@
+Person 1, Correct uniform, Tutor 5
+Person 2, Attitude towards attendance, Tutor 2
+Person 3, Excellence (in any area), Peer 73
+Person 4, Attitude towards attendance, Tutor 4
+Person 5, Participation, Peer 77
+Person 6, Correct uniform, Tutor 10
+Person 7, Correct uniform, Tutor 25
+Person 8, Correct uniform, Tutor 23
+Person 9, Commitment to Tutor Group, Peer 70
+Person 10, Commitment to Tutor Group, Peer 80
+Person 11, Correct uniform, Tutor 2
+Person 12, Caring for others and the environment, Tutor 8
+Person 13, Participation, Peer 6
+Person 14, Excellence (in any area), Peer 50
+Person 15, Correct uniform, Tutor 15
+Person 16, Courtesy, Peer 1
+Person 17, Commitment to Tutor Group, Peer 40
+Person 18, Participation, Peer 8
+Person 19, Participation, Peer 86
+Person 20, Attitude towards attendance, Tutor 10
+Person 21, Caring for others and the environment, Tutor 6
+Person 22, Excellence (in any area), Peer 38
+Person 23, Attitude towards attendance, Tutor 16
+Person 24, Commitment to Tutor Group, Tutor 19
+Person 25, Excellence (in any area), Peer 86
