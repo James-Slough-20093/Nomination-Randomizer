@@ -1,3 +1,6 @@
+"""Name: Nomination Randomizer v2.2
+   Author: James Slough
+   Date: 05/03/2020"""
 # Importing Libraries
 from tkinter import * # Importing everything from tkinter
 from tkinter import messagebox # Importing messagebox from tkinter (because if I don't it will say that messagebox isn't defined)
